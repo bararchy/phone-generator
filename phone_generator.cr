@@ -5,9 +5,7 @@
 class Generator
 
   def self.get_initiator
-    puts "please enter the initiator num\r\nFor example 050,052,054 etc..."
-    print "initiator: "
-    initiator = read
+    initiator = ARGV[0]
     if initiator
       initiator = initiator.chomp
       gen(initiator)

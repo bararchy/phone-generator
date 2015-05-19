@@ -6,10 +6,7 @@ Can be used to create a dictionary to use with bruteforce techinques
 Usage 
 
 ```
-./phone_generator 
-please enter the initiator num
-For example 050,052,054 etc...
-initiator: 
+./phone_generator 052 
 ```
 Enter the number you want (lets say 052)
 
