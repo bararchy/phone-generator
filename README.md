@@ -1,5 +1,5 @@
 # phone-generator
-An Israeli phone number generator built with the Crystal Languge
+An Israeli phone number generator built with the Crystal languge
 
 Can be used to create a dictionary to use with bruteforce techinques
 
